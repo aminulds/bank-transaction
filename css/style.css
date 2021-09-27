@@ -1,4 +1,4 @@
-body{padding: 50px; font-family: 'Poppins', sans-serif;}
+body{font-family: 'Poppins', sans-serif;}
 
 /* Transaction */
 #transactionSection{display: none;}
@@ -11,3 +11,6 @@ body{padding: 50px; font-family: 'Poppins', sans-serif;}
 
 /* input */
 input::placeholder{text-transform: lowercase;}
+
+/* Bank img */
+.bank-img img{width: 100px;}
