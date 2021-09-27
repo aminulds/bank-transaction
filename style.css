@@ -1,1 +1,10 @@
-body{padding: 100px;}
+body{padding: 100px; font-family: 'Poppins', sans-serif;}
+
+/* Transaction */
+#transactionSection{display: none;}
+.deposit, .withdraw, .balance{border-radius: 10px;}
+.deposit{background-color: cadetblue;}
+.withdraw{background-color: mediumpurple;}
+/* .balance{background-color: dodgerblue;} */
+.user-transaction{border-radius: 10px;}
+#transactionSection h2, h5{font-weight: bold;}
